@@ -1,0 +1,12 @@
+{
+    "description": "php framework",
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "ishop\\": "vendor/ishop/core",
+            "app\\": "app"
+        }
+    }
+}

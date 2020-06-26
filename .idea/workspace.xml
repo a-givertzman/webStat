@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:iShop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:iShop" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:iShop/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86fb6cbd-f3e3-4877-b49f-6f83b70e62aa" name="Default Changelist" comment="2.16 Хлебные крошки">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/antonlobanov.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/iShop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00_ishop.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ishop.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_ishop.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/BreadcrumbsModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/BreadcrumbsModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Product/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Product/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/deleted_code.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/Router.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1crD6L9EoYnsDBr9SDpoVz2Jvqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/models" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/models" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86fb6cbd-f3e3-4877-b49f-6f83b70e62aa" name="Default Changelist" comment="" />
+      <created>1591277641435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591277641435</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2.16 Хлебные крошки">
+      <created>1591518001376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591518001377</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="iShop/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2.16 Хлебные крошки" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.16 Хлебные крошки" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="395" width="554" height="390" key="#Notifications" timestamp="1591518300059">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="723" y="395" width="554" height="390" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1591518300059" />
+    <state x="305" y="213" key="SettingsEditor" timestamp="1591518166741">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="305" y="213" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1591518166741" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1591519468308">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1591519468308" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1591518618188">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591518618188" />
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591518192113">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591518192113" />
+    <state x="541" y="157" width="598" height="735" key="find.popup" timestamp="1591283747073">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="541" y="157" width="598" height="735" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1591283747073" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1591463797271">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1591463797271" />
+    <state x="570" y="444" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1591460490144">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="570" y="444" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591460490144" />
+  </component>
+</project>
